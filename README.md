@@ -1,6 +1,6 @@
 # Lab02 Guide
 ## Getting Started
-- Checkout the CS121 code examples
+- Clone the (Module 2 Code Examples)[https://github.com/lhindman/cs121-mod02-examples]
 
 Please watch the Lab02 Walkthough Video.
 ## Activity 1 - Lincoln (pp2.1)

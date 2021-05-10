@@ -1,8 +1,9 @@
 # Lab02 Guide
 ## Getting Started
-- Clone the [Module 2 Code Examples](https://github.com/lhindman/cs121-mod02-examples)
+- Please watch the [Lab02 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyBdcCTsjuSvw9JgUc7RXre2)  
+- Please clone the [Mod02 Code Examples](https://github.com/lhindman/cs121-mod02-examples.git).
 
-Please watch the [Lab02 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyBdcCTsjuSvw9JgUc7RXre2)
+
 ## Activity 1 - Lincoln
 ### Problem Description
 Create a revised version of the Lincoln application from the version in the Module 2 Code Examples such that quotes appear around the quotation.

@@ -3,7 +3,7 @@
 - Clone the [Module 2 Code Examples](https://github.com/lhindman/cs121-mod02-examples)
 
 Please watch the [Lab02 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyBdcCTsjuSvw9JgUc7RXre2)
-## Activity 1 - Lincoln (pp2.1)
+## Activity 1 - Lincoln
 ### Problem Description
 Create a revised version of the Lincoln application from the version in the Module 2 Code Examples such that quotes appear around the quotation.
 
@@ -21,7 +21,7 @@ A quote by Abraham Lincoln:
 4. Commit the changes to your local repository with a message stating that Activity 1 is completed.
 5. Push the changes from your local repository to the github classroom repository.
 
-## Activity 2 - AverageOfThree (pp2.2)
+## Activity 2 - AverageOfThree
 ### Problem Description
 Write an application that reads three integers and prints their average.
 
@@ -40,7 +40,7 @@ The average is: 14.666666666666666
 4. Commit the changes to your local repository with a message stating that Activity 2 is completed.
 5. Push the changes from your local repository to the github classroom repository.
 
-## Activity 3 - HMSConverter (pp2.6)
+## Activity 3 - HMSConverter
 ### Problem Description
 Write an application that reads values representing a time duration in hours, minutes, and seconds, and then prints the equivalent total number of seconds.  (For example, 1 hours, 28 minutes, 42 seconds is equivalent to 5322 seconds.)
 
@@ -60,7 +60,7 @@ Total seconds: 5322
 4. Commit the changes to your local repository with a message stating that Activity 3 is completed.
 5. Push the changes from your local repository to the github classroom repository.
 
-## Activity 4 - SecondsConverter (pp2.7)
+## Activity 4 - SecondsConverter
 ### Problem Description
 Create a version of the previous project that reversed the computation.  That is, read a value representing a number of seconds, and then print the equivalent amount of time as a combination of hourse, minutes, and seconds. (For example, 9999 seconds is equivalent to 2 hours, 46 minutes, and 39 seconds.)
 
@@ -79,7 +79,7 @@ Seconds: 39
 4. Commit the changes to your local repository with a message stating that Activity 4 is completed.
 5. Push the changes from your local repository to the github classroom repository.
 
-## Activity 5 - FractionConverter (pp2.11)
+## Activity 5 - FractionConverter
 ### Problem Description
 Write an application that prompts for and reads the numerator and denominator of a fraction as integers and then prints the decimal equivalent of the fraction.
 
